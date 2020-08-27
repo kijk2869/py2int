@@ -2,7 +2,7 @@ exec(chr(round(2.5*2*2))+chr(round(26.25*2*2))+chr(round(27.25*2*2))+chr(round(2
 def to_int(s,l_=1):
     for _ in xr(l_): se,see=r.randint(2,10),r.randint(2,10);c=[o(i)/(se*see) for i in l(s)];s=j([csr(3*11*3)+csr(2*13*2*2)+csr(2*19*3)+csr(2**2*(2+4*2))+csr(_asdr_(9.5*2*6))+csr(_asdr_(9.25*2*6))+csr(_asdr_(9.75*2*6))+csr(_asdr_(9.166666666666666*2*6))+csr(_asdr_(8.333333333333334*2*6))+csr(2*(2+4*2)*2)+_s__(i)+csr(2*3*7)+_s__(se)+csr(2*3*7)+_s__(see)+csr((2*(1+3**2)*2)+1)*2 for i in c]);return csr(_asdr_(5.611111111111111*2*9))+csr(_asdr_(6.666666666666667*2*9))+csr(_asdr_(5.611111111111111*2*9))+csr(_asdr_(5.5*2*9))+csr(_asdr_(2.2222222222222223*2*9))+s+csr(_asdr_(2.5625*2*8))
 
-if __name__ == '__main__'
-print(to_int("""
+if __name__ == '__main__':
+    print(to_int("""
 print('hello')
 """, 1))
